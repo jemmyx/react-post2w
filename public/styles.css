@@ -1,0 +1,40 @@
+media (min-width: 1300px){
+	.container {
+		width: 1270px;
+	}
+}
+
+.searchInput{background:silver;color:white;}
+
+.active{}
+
+.warning-deletion{    
+	background: red;
+    color: white;
+}
+
+.notif-info{
+    position: fixed;
+    top: 0;
+    width: 100%;
+	left:0;
+}
+
+.word-wrap{
+	word-wrap:break-word;
+	word-break:break-word;
+}
+
+td{
+	font-size:11px;
+	font-family:verdana;
+}
+
+td.action{
+	width:105px;
+}
+
+td button{
+	display:inline;
+	margin-right:4px;
+}

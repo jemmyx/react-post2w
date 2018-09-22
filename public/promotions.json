@@ -1,0 +1,28 @@
+[
+	{ 
+		"id" : "1000", 
+		"pgsocial" : "Ville de Lausanne", 
+		"albumid":"45698", 
+		"publicationDate":"24.04.2018 11:33",
+		"publishedAt":"24.04.2018 11:45",
+		"link" : "http://livecomedy.ch",
+		"text" : "Site personnnel",
+		"picURL" : "",
+		"created" : "23.04.2018",
+		"approved" : "oui",
+		"action" : ""
+	},
+	{ 
+		"id" : "1002", 
+		"pgsocial" : "Ville de Fribourg", 
+		"albumid":"98756", 
+		"publicationDate":"13.04.2015 10:12",
+		"publishedAt":"24.04.2018 11:45",
+		"link" : "http://faibomeyer.ch",
+		"text" : "Site personnnel",
+		"picURL" : "",
+		"created" : "13.06.2018",
+		"approved" : "non",
+		"action" : ""
+	}
+]
